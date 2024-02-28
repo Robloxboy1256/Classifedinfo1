@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: Classifedinfo
+    env: docker
+    plan: free
