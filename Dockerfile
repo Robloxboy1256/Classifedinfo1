@@ -4,7 +4,7 @@ RUN apk add --no-cache git
 
 RUN git clone https://github.com/Robloxboy1256/Classifedinfo.git
 
-WORKDIR /Classifedinfo
+WORKDIR /Gamingtips
 
 RUN npm install
 
