@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: Myserviceforalexander
+    name: Gamingtips1
     env: docker
     plan: free
